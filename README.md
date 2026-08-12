@@ -7,6 +7,8 @@ and where you are heading.]
 
 ---
 
+![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=educoppi&theme=shadow)
+
 ## About
 
 [Short paragraph about your professional journey.]
