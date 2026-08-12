@@ -1,127 +1,122 @@
-# EduardoCoppi
+# [Your Name]
 
-# Olá! Eu sou [SEU NOME] 👋
+[Short professional positioning]
 
-**[SEU TÍTULO / POSICIONAMENTO PROFISSIONAL]**
-
-[Uma frase curta explicando quem você é, o que desenvolve e em que direção profissional está seguindo.]
-
----
-
-## 👨‍💻 Sobre mim
-
-* 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** no SENAI
-* 💼 Atualmente atuo como **[CARGO / ESTÁGIO]**
-* 💻 Experiência profissional com desenvolvimento utilizando **SQL, HTML, CSS e JavaScript** no ERP Sankhya
-* 🔧 Experiência também com suporte técnico, manutenção de computadores e help desk
-* 🚀 Atualmente aprofundando meus conhecimentos em **Java e Spring Boot**
-* 🎯 [OBJETIVO PROFISSIONAL]
-* 🌍 [OBJETIVO DE CARREIRA / MERCADO INTERNACIONAL, SE QUISER]
+[One or two sentences that summarize who you are, what you currently do,
+and where you are heading.]
 
 ---
 
-## 🛠️ Tecnologias
+## About
+
+[Short paragraph about your professional journey.]
+
+[Current education + professional experience.]
+
+[Current technical focus and career direction.]
+
+---
+
+## Technical Skills
 
 ### Backend
-
-* ☕ **Java**
-* 🌱 **Spring Boot**
-* 🔐 **Spring Security**
-* 🗄️ **JPA / Hibernate**
-* 🔑 **JWT**
-* 🌐 **APIs REST**
+- Java
+- Spring Boot
+- Spring Security
+- JPA / Hibernate
+- REST APIs
+- JWT
 
 ### Frontend
+- JavaScript
+- HTML
+- CSS
+- React
 
-* 🌐 **HTML5**
-* 🎨 **CSS3**
-* ⚡ **JavaScript**
-* ⚛️ **React**
-* 📱 **React Native**
+### Database
+- SQL
+- MySQL
+- Database modeling
 
-### Banco de dados
-
-* 🐬 **MySQL**
-* 🗃️ **SQL**
-* [OUTRAS TECNOLOGIAS]
-
-### Ferramentas & DevOps
-
-* 🔀 **Git**
-* 🐙 **GitHub**
-* 🐳 **Docker** *(em aprendizado)*
-* [CI/CD]
-* [OUTRAS]
+### Tools & Practices
+- Git
+- GitHub
+- REST
+- [Docker - when sufficiently comfortable]
+- [CI/CD - when sufficiently comfortable]
 
 ---
 
-## 🚀 Projetos
+## Professional Experience
 
-### [NOME DO PROJETO]
+### [Company Name]
+**IT Support / Software Development Intern**  
+[Year] – Present
 
-**[Breve descrição do problema que o projeto resolve.]**
+- [Responsibility]
+- [Responsibility]
+- [Responsibility]
+- [Development-related responsibility]
 
-**Tecnologias:** `Java` `Spring Boot` `MySQL` `React`
-
-* [Principal funcionalidade]
-* [Outra funcionalidade]
-* [Alguma decisão técnica interessante]
-* [Link para demonstração]
-
-🔗 [Repositório]
-
----
-
-## 💼 Experiência
-
-### [CARGO] — [EMPRESA]
-
-`[ANO] – Atualmente`
-
-* Desenvolvimento de telas e relatórios utilizando **HTML, CSS, JavaScript e SQL** no ERP Sankhya.
-* Criação e manutenção de consultas SQL para geração e apresentação de informações.
-* Suporte técnico e atendimento aos usuários.
-* Manutenção de computadores e equipamentos.
-* [OUTRAS RESPONSABILIDADES RELEVANTES]
+[Short paragraph explaining the transition from IT support
+towards software development, if appropriate.]
 
 ---
 
-## 🎓 Formação
+## Selected Projects
 
-### Análise e Desenvolvimento de Sistemas — SENAI
+### [Project Name]
+[Short description]
 
-`[ANO] – 2027`
+**Stack:** Java · Spring Boot · MySQL · React
 
-[Informação complementar, se relevante.]
+- [Technical feature]
+- [Technical decision]
+- [Problem solved]
 
-### Técnico em Desenvolvimento de Sistemas — SENAI
-
-`2023 – [ANO]`
-
----
-
-## 📚 Atualmente estudando
-
-* 🐳 **Docker**
-* ⚛️ **React**
-* [OUTROS ESTUDOS]
-* [OUTROS ESTUDOS]
+[Repository] · [Live Demo]
 
 ---
 
+### [Project Name]
+[Short description]
 
-## 📊 GitHub
+**Stack:** [Technologies]
 
-[ESTATÍSTICAS — DECIDIREMOS DEPOIS SE VALE A PENA UTILIZAR]
+- [Technical feature]
+- [Technical feature]
 
----
-
-## 📫 Contato
-
-* 💼 LinkedIn: [LINK]
-* 🐙 GitHub: [LINK]
-* 📧 Email: [EMAIL]
+[Repository] · [Live Demo]
 
 ---
 
-> [UMA FRASE PESSOAL OU PROFISSIONAL — OPCIONAL]
+## Education
+
+### Associate Degree in Systems Analysis and Development
+SENAI — [2026–2027]
+
+### Technical Degree in Systems Development
+SENAI — [2023–2024/2025]
+
+---
+
+## Currently Learning
+
+- Docker
+- React
+- Automated testing
+- [Other relevant topic]
+
+---
+
+## Career Direction
+
+[Short paragraph about the kind of software engineering
+career you are building towards.]
+
+---
+
+## Contact
+
+- LinkedIn — [link]
+- Email — [email]
