@@ -1,11 +1,5 @@
-![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=educoppi&theme=dark)
-
-![GitHub Stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=educoppi)
-![Top Languages](https://git-hub-stats-card-generator.vercel.app/api/svg?username=educoppi&type=languages)
-![Contributions](https://git-hub-stats-card-generator.vercel.app/api/svg?username=educoppi&type=contributions)
-![Top Repos](https://git-hub-stats-card-generator.vercel.app/api/svg?username=educoppi&type=top-repos)
-
-
+![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=educoppi&theme=transparent&icon_color=58a6ff&hide_border=true)
+![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=educoppi&theme=dark)
 
 # [Your Name]
 
@@ -15,7 +9,6 @@
 and where you are heading.]
 
 ---
-![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=educoppi&theme=dark)
 
 ## About
 
