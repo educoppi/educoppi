@@ -1,12 +1,11 @@
 ![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=educoppi&theme=transparent&icon_color=58a6ff&hide_border=true&text_color=ffffff)
 ![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=educoppi&theme=dark)
 
-# [Your Name]
+# Eduardo Coppi
 
-[Short professional positioning]
+Software Developer in training | Java · Spring Boot · SQL
 
-[One or two sentences that summarize who you are, what you currently do,
-and where you are heading.]
+Brazilian developer with professional experience in ERP-related solutions. Currently studying Systems Analysis and Development at SENAI and working toward an international software development career.
 
 ---
 
