@@ -3,7 +3,7 @@
 
 # Eduardo Coppi
 
-Software Developer | Java · Spring Boot · SQL
+Backend Developer | Java · Spring Boot · SQL
 
 Brazilian developer with professional experience building solutions for ERP systems. Currently pursuing a degree in Systems Analysis and Development and working toward an international career in software engineering.
 
