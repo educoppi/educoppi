@@ -1,25 +1,27 @@
-![My GitHub stats](https://gitglance-eight.vercel.app/api/combined?username=educoppi&style=aurora&theme=midnight&langs_count=5&hide_border=true)
-
 # Eduardo Coppi
 
-Backend Developer | Java · Spring Boot · SQL
+![My GitHub stats](https://gitglance-eight.vercel.app/api/combined?username=educoppi&style=aurora&theme=midnight&langs_count=5&hide_border=true)
 
-Brazilian developer with professional experience building solutions for ERP systems. Currently pursuing a degree in Systems Analysis and Development and working toward an international career in software engineering.
+Software Developer | Backend Development · Java · Spring Boot
+
+Brazilian developer with professional experience building solutions for ERP systems. Currently pursuing a degree in Systems Analysis and Development and strengthening my backend development skills with Java and Spring Boot.
 
 ---
 
 ### Experience
 
-**Software Developer Intern | ERP Sankhya**  
+**Systems Developer Intern | Prominas Brasil Equipamentos LTDA**  
 *2025 – Present*
 - Developing custom data visualization screens and dashboards to track key business metrics (sales, purchasing, production, and quality).
-- Working directly with relational databases, evolving from complex data extraction (queries) to data manipulation and persistence (CRUD operations) within the ERP ecosystem.
+- Working with the Sankhya ERP platform, developing custom solutions using SQL, JavaScript, HTML, and CSS.
+- Working directly with relational databases, writing complex SQL queries for data extraction, analysis, manipulation, and persistence within the ERP ecosystem.
+- Providing technical support to users and assisting with ERP operations and system-related troubleshooting.
 
-**Full Stack Developer (Academic Mentorship) | Faculdade de Tecnologia e Escola SENAI Antonio Adolpho Lobbe**  
+**Software Development Project | Faculdade de Tecnologia e Escola SENAI Antonio Adolpho Lobbe**  
 *2026 – Present*
-- Leading the end-to-end development of a customer service support system for the university.
-- Managing the complete software development lifecycle autonomously (with professor mentorship), currently focusing on requirements gathering and system architecture.
-- Responsible for all upcoming phases, from full-stack implementation to final deployment.
+- Leading the end-to-end development of a support service management system for the university.
+- Working under professor mentorship, currently responsible for requirements gathering and system architecture.
+- Responsible for the upcoming implementation, testing, and deployment phases.
 
 ### Technical Skills
 
@@ -36,14 +38,14 @@ Brazilian developer with professional experience building solutions for ERP syst
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-**Tools & Practices:**  
+**Development Tools & AI:**  
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Antigravity IDE](https://img.shields.io/badge/Antigravity_IDE-blue?style=for-the-badge)
 
 ---
 
-### 📫 Let's Connect!
+### Contact
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardocoppi2004)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:educoppi8@gmail.com)
