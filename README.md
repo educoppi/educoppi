@@ -2,7 +2,7 @@
 
 ![My GitHub stats](https://gitglance-eight.vercel.app/api/combined?username=educoppi&style=aurora&theme=midnight&langs_count=5&hide_border=true)
 
-Software Developer | Backend Development · Java · Spring Boot
+### Software Developer | Backend Development · Java · Spring Boot
 
 Brazilian developer with professional experience building solutions for ERP systems. Currently pursuing a degree in Systems Analysis and Development and strengthening my backend development skills with Java and Spring Boot.
 
