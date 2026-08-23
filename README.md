@@ -9,7 +9,7 @@ Brazilian developer with professional experience building solutions for ERP syst
 
 ---
 
-### 💼 Experience
+### Experience
 
 **Software Developer Intern | ERP Sankhya**  
 *2025 – Present*
