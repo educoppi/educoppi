@@ -19,7 +19,7 @@ Brazilian developer with professional experience building solutions for ERP syst
 
 **Software Development Project | Faculdade de Tecnologia e Escola SENAI Antonio Adolpho Lobbe**  
 *2026 – Present*
-- Leading the end-to-end development of a support service management system for the university.
+- Leading the end-to-end development of a student service platform for the university's student support department.
 - Working under professor mentorship, currently responsible for requirements gathering and system architecture.
 - Responsible for the upcoming implementation, testing, and deployment phases.
 
