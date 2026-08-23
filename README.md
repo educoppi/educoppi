@@ -1,4 +1,4 @@
-![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=educoppi&theme=transparent&icon_color=58a6ff&hide_border=true&text_color=ffffff&hide=issues&hide=contributed)
+![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=educoppi&theme=transparent&icon_color=58a6ff&hide_border=true&text_color=ffffff&hide=issues&hide=contributed&photo_quality=100)
 ![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=educoppi&theme=dark)
 
 # Eduardo Coppi
