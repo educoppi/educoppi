@@ -10,7 +10,7 @@ Brazilian developer with professional experience building solutions for ERP syst
 
 ### Experience
 
-**Systems Developer Intern | Prominas Brasil Equipamentos LTDA**  
+**Internship | Prominas Brasil Equipamentos LTDA**  
 *2025 – Present*
 - Developing custom dashboards and reporting screens to track key business metrics (sales, purchasing, production, and quality).
 - Working with the Sankhya ERP platform, developing custom solutions using Java/JSP, SQL, JavaScript, HTML, and CSS.
