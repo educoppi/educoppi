@@ -41,7 +41,7 @@ Brazilian developer with professional experience building solutions for ERP syst
 **Development Tools & AI:**  
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Antigravity IDE](https://img.shields.io/badge/Antigravity_IDE-blue?style=for-the-badge)
+![Claude](https://img.shields.io/badge/claude-%23D97757.svg?style=for-the-badge&logo=claude&logoColor=white)
 
 ---
 
