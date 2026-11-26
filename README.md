@@ -1,8 +1,6 @@
 <img src="assets/banner.svg" alt="Eduardo Coppi — Software Developer | Backend Development · Java · Spring Boot" width="100%">
 
-<p align="center">
-  <img src="https://gitglance-eight.vercel.app/api/combined?username=educoppi&style=aurora&theme=midnight&langs_count=5&hide_border=true" alt="My GitHub stats">
-</p>
+<img src="assets/stats.svg" alt="My GitHub stats" width="100%">
 
 Brazilian developer with professional experience building solutions for ERP systems. Currently pursuing a degree in Systems Analysis and Development and strengthening my backend development skills with Java and Spring Boot.
 
