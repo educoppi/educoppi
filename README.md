@@ -1,51 +1,60 @@
-# Eduardo Coppi
+<img src="assets/banner.svg" alt="Eduardo Coppi — Software Developer | Backend Development · Java · Spring Boot" width="100%">
 
-![My GitHub stats](https://gitglance-eight.vercel.app/api/combined?username=educoppi&style=aurora&theme=midnight&langs_count=5&hide_border=true)
-
-### Software Developer | Backend Development · Java · Spring Boot 
+<p align="center">
+  <img src="https://gitglance-eight.vercel.app/api/combined?username=educoppi&style=aurora&theme=midnight&langs_count=5&hide_border=true" alt="My GitHub stats">
+</p>
 
 Brazilian developer with professional experience building solutions for ERP systems. Currently pursuing a degree in Systems Analysis and Development and strengthening my backend development skills with Java and Spring Boot.
 
----
+<img src="assets/divider.svg" width="100%" alt="">
 
-### Experience
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/title-experience-light.svg">
+  <img src="assets/title-experience-dark.svg" alt="Experience" height="56">
+</picture>
 
-**Internship | Prominas Brasil Equipamentos LTDA**  
-*2025 – Present*
+**Internship** · Prominas Brasil Equipamentos LTDA  
+`2025 – Present`
 - Developing custom dashboards and reporting screens to track key business metrics (sales, purchasing, production, and quality).
 - Working with the Sankhya ERP platform, developing custom solutions using Java/JSP, SQL, JavaScript, HTML, and CSS.
 - Working directly with relational databases, writing complex SQL queries for data extraction and analysis, and implementing backend logic in Java/JSP for data persistence and CRUD operations within the ERP ecosystem.
 - Providing technical support to users and assisting with ERP operations and system-related troubleshooting.
 
-**Software Development Project | Faculdade de Tecnologia e Escola SENAI Antonio Adolpho Lobbe**  
-*2026 – Present*
+**Software Development Project** · Faculdade de Tecnologia e Escola SENAI Antonio Adolpho Lobbe  
+`2026 – Present`
 - Leading the end-to-end development of a student service platform for the university's student support department.
 - Working under professor mentorship, currently responsible for requirements gathering and system architecture.
 - Responsible for the upcoming implementation, testing, and deployment phases.
 
-### Technical Skills
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/title-skills-light.svg">
+  <img src="assets/title-skills-dark.svg" alt="Technical Skills" height="56">
+</picture>
 
-**Backend & Database:**  
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+**Backend & Database**  
+<img src="https://img.shields.io/badge/Java-1e1e1e?style=for-the-badge&logo=openjdk&logoColor=ED8B00" alt="Java">
+<img src="https://img.shields.io/badge/Spring-1e1e1e?style=for-the-badge&logo=spring&logoColor=6DB33F" alt="Spring">
+<img src="https://img.shields.io/badge/MySQL-1e1e1e?style=for-the-badge&logo=mysql&logoColor=5EA0D8" alt="MySQL">
+<img src="https://img.shields.io/badge/Hibernate-1e1e1e?style=for-the-badge&logo=hibernate&logoColor=BCAE79" alt="Hibernate">
+<img src="https://img.shields.io/badge/JWT-1e1e1e?style=for-the-badge&logo=jsonwebtokens&logoColor=FB015B" alt="JWT">
 
-**Frontend:**  
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+**Frontend**  
+<img src="https://img.shields.io/badge/React-1e1e1e?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+<img src="https://img.shields.io/badge/JavaScript-1e1e1e?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
+<img src="https://img.shields.io/badge/HTML5-1e1e1e?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5">
+<img src="https://img.shields.io/badge/CSS3-1e1e1e?style=for-the-badge&logo=css&logoColor=2965F1" alt="CSS3">
 
-**Development Tools & AI:**  
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Claude](https://img.shields.io/badge/claude-%23D97757.svg?style=for-the-badge&logo=claude&logoColor=white)
+**Development Tools & AI**  
+<img src="https://img.shields.io/badge/Git-1e1e1e?style=for-the-badge&logo=git&logoColor=F05033" alt="Git">
+<img src="https://img.shields.io/badge/GitHub-1e1e1e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<img src="https://img.shields.io/badge/Claude-1e1e1e?style=for-the-badge&logo=claude&logoColor=D97757" alt="Claude">
 
----
+<img src="assets/divider.svg" width="100%" alt="">
 
-### Contact
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/title-contact-light.svg">
+  <img src="assets/title-contact-dark.svg" alt="Contact" height="56">
+</picture>
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardocoppi2004)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:educoppi8@gmail.com)
+<a href="https://www.linkedin.com/in/eduardocoppi2004"><img src="https://img.shields.io/badge/LinkedIn-e83151?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxjaXJjbGUgY3g9IjUiIGN5PSI1IiByPSIyLjIiLz48cmVjdCB4PSIzIiB5PSI5IiB3aWR0aD0iNCIgaGVpZ2h0PSIxMiIgcng9Ii41Ii8+PHBhdGggZD0iTTEwIDloMy44djEuOGMuNi0xLjEgMi0yLjEgNC0yLjEgMy42IDAgNC4yIDIuNCA0LjIgNS40VjIxaC00di02LjFjMC0xLjUtLjEtMy4yLTItMy4ycy0yLjIgMS41LTIuMiAzLjFWMjFIMTB6Ii8+PC9zdmc+" alt="LinkedIn"></a>
+<a href="mailto:educoppi8@gmail.com"><img src="https://img.shields.io/badge/Gmail-e83151?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
