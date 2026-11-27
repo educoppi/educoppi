@@ -24,3 +24,4 @@ jobs:
       - uses: educoppi/readme-stats@v1
         with:
           font_path: assets/fonts/aku-kamu.otf
+          exclude_langs: 'CSS'
