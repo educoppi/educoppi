@@ -27,4 +27,5 @@ jobs:
           exclude_langs: 'CSS, HTML, Dockerfile'
           include_private: 'true'
           langs_count: '4'
+          hide_border: 'true'
           token: ${{ secrets.STATS_TOKEN }}
