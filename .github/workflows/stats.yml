@@ -25,3 +25,5 @@ jobs:
         with:
           font_path: assets/fonts/aku-kamu.otf
           exclude_langs: 'CSS, HTML'
+          include_private: 'true'
+          token: ${{ secrets.STATS_TOKEN }}
